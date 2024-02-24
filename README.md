@@ -1,9 +1,5 @@
 # FlipCardGame
 
-A simple flip card game coded in javascript.
-
-##
-
 This JavaScript game implements a simple flipcard game where the user must match cards. The game creates a score by using time and number of moves to match symbols within cards.
 
 How to play?
